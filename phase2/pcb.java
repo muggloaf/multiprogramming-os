@@ -1,7 +1,8 @@
-class pcb{
-    int pid;
-    int ttl;
-    int tll;
-    int tlc;
-    int llc;
+public class PCB {
+        int pid;
+        int TTL;
+        int TLL;
+        int completiontime;
+        int linesprinted;
+        String currentstat;
 }

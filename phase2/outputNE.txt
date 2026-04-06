@@ -1,0 +1,45 @@
+Hello World!                                   
+Process exited with status 0
+SI : 3  PI : 0  TI : 0
+
+
+NOT SAME                                        
+Process exited with status 0
+SI : 3  PI : 0  TI : 0
+
+
+*    *    *    *                                  
+*              *                                  
+*              *                                  
+*    *    *    *                                  
+Process exited with status 0
+SI : 3  PI : 0  TI : 0
+
+
+The cat  purrs                                  
+Process exited with status 0
+SI : 3  PI : 0  TI : 0
+
+
+apple is red                                   
+Process exited with status 0
+SI : 3  PI : 0  TI : 0
+
+
+*                                                 
+*    *                                            
+*    *    *                                       
+*    *                                            
+*                                                 
+*                                                 
+*                                                 
+*                                                 
+Process exited with status 0
+SI : 3  PI : 0  TI : 0
+
+
+NOW  YOU ARE HOW                               
+Process exited with status 0
+SI : 3  PI : 0  TI : 0
+
+

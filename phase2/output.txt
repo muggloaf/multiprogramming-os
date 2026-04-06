@@ -1,0 +1,37 @@
+Opcode Error
+SI : 0  PI : 1  TI : 0
+
+
+Operand Error
+SI : 0  PI : 2  TI : 0
+
+
+*    *    *    *                                  
+Line Limit Exceeded
+SI : 0  PI : 0  TI : 0
+
+
+Time Limit Exceeded
+SI : 1  PI : 0  TI : 2
+
+
+Out of data
+SI : 0  PI : 0  TI : 0
+
+
+*                                                 
+*    *                                            
+*    *    *                                       
+*    *                                            
+*                                                 
+*                                                 
+*                                                 
+*                                                 
+Process exited with status 0
+SI : 3  PI : 0  TI : 0
+
+
+Invalid Page Fault
+SI : 0  PI : 3  TI : 0
+
+
