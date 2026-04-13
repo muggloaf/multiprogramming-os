@@ -46,7 +46,7 @@ public class phase2{
         int instcnt = 0;
         pagenum=49;
         int frametofill;
-        File f = new File("inputE.txt");
+        File f = new File("inputNE.txt");
         sc = new Scanner(f);
 
         while(sc.hasNextLine()){
@@ -429,7 +429,9 @@ public class phase2{
 
     public static void terminate(String message, Scanner sc) throws Exception{
         FileWriter fw=new FileWriter("output.txt",true);
-        String temp="SI : "+SI+"  PI : "+PI+"  TI : "+TI;
+        String IRcontent = "" + IR[0] + IR[1] + IR[2] + IR[3];
+        String ICcontent = String.valueOf(IC);
+        String temp="SI : "+SI+"  PI : "+PI+"  TI : "+TI+"   IR : "+IRcontent+"   IC : "+ICcontent;
 		
         if(OOD==1){
 			fw.write(message+"\n"+temp+"\n\n\n");
