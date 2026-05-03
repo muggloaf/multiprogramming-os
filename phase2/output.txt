@@ -3,7 +3,7 @@ SI : 0  PI : 1  TI : 0   IR : GP10   IC : 0
 
 
 Operand Error
-SI : 0  PI : 2  TI : 0   IR : GD2A   IC : 1
+SI : 0  PI : 2  TI : 0   IR : GD5O   IC : 4
 
 
 *    *    *    *                                  

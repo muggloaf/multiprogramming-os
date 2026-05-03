@@ -46,7 +46,7 @@ public class phase2{
         int instcnt = 0;
         pagenum=49;
         int frametofill;
-        File f = new File("inputNE.txt");
+        File f = new File("inputE.txt");
         sc = new Scanner(f);
 
         while(sc.hasNextLine()){
